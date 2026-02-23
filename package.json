@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "three": "^0.153.0",
+    "vite": "^7.3.1"
+  },
+  "name": "blender_to_threejs-main",
+  "version": "1.0.0",
+  "description": "A Starter Project built to demonstrate loading a ThreeJS scene retrieved from ThreeJS.org/editor.",
+  "main": "app.js",
+  "scripts": {
+    "dev":"vite",
+    "build":"vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
